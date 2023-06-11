@@ -124,7 +124,7 @@ Poznanie odpowiedzi na wiele nurtujących Was pytań m.in. „Dlaczego nikt nie 
                 slidesToShow: 3,
                 arrows: false,
                 autoplay: true,
-                autoplaySpeed: 800,
+                autoplaySpeed: 2800,
                 responsive: [
                   {
                     breakpoint: 1200,
